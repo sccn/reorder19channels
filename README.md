@@ -3,10 +3,14 @@ This EEGLAB plugin assumes there are 19 channels in your data whose labels endin
 
 ![shot1.jpg](images/shot1.jpg)
 
-
+Once you confirm it, you run this plugin. No GUI will be launched. Just press the button and it's done.
 
 ![shot4.jpg](images/shot4.jpg)
 
-![shot2.jpg](images/shot2.jpg)
-![shot3.jpg](images/shot3.jpg)
+Below I show before-after comparison.
 
+Before
+![shot2.jpg](images/shot2.jpg)
+
+After
+![shot3.jpg](images/shot3.jpg)
