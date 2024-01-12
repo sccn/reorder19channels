@@ -14,3 +14,5 @@ Before
 
 After
 ![shot3.jpg](images/shot3.jpg)
+
+01/12/2024 Makoto Miyakoshi.
