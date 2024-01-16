@@ -1,5 +1,5 @@
 # reorder19channels
-This EEGLAB plugin assumes there are 19 channels in your data whose labels ending with '-LE' i.e. 'Fp1-LE', 'Fp2-LE', etc.. Typically, when you save 19-channel data using [Neuroguide](https://appliedneuroscience.com/neuroguide/). You can confirm it from 'Edit' -> 'Channel locations' and it should look as follows. 
+This EEGLAB plugin assumes there are 19 channels in your data whose labels ending with '-LE' i.e. 'Fp1-LE', 'Fp2-LE', etc.. Typically, when you save 19-channel data using [NeuroGuide](https://appliedneuroscience.com/neuroguide/), the saved data look like this. You can confirm it from 'Edit' -> 'Channel locations' and it should look as follows. 
 
 ![shot1.jpg](images/shot1.jpg)
 
